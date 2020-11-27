@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eec18410-8091-4a52-b457-3b5f5dc28d77" name="Default Changelist" comment="" />
+    <list default="true" id="eec18410-8091-4a52-b457-3b5f5dc28d77" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/JingDongSelenium/a123132.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JingDongSelenium/a123132.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,11 +31,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Jsoup_app/runspider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3360">
-              <caret line="140" selection-start-line="140" selection-end-line="140" />
+            <state relative-caret-position="235">
+              <caret line="135" column="25" selection-start-line="135" selection-start-column="25" selection-end-line="135" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JingDongSelenium/a123132.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -222,7 +236,6 @@
         <option value="$PROJECT_DIR$/src/main/java/JingDongSelenium/getInformation.java" />
         <option value="$PROJECT_DIR$/src/天猫.txt" />
         <option value="$PROJECT_DIR$/src/京东商品链接.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/JingDongSelenium/a123132.java" />
         <option value="$PROJECT_DIR$/src/main/java/yinpinSpider/qingtingFM.java" />
         <option value="$PROJECT_DIR$/src/main/java/JingDongSelenium/goodUrl.java" />
         <option value="$PROJECT_DIR$/src/main/java/Util/dianshangMysql.java" />
@@ -234,6 +247,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Util/Dealtxt.java" />
         <option value="$PROJECT_DIR$/src/main/java/Jsoup_app/runspider.java" />
         <option value="$PROJECT_DIR$/src/main/java/TianMallSelenium/TianMall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JingDongSelenium/a123132.java" />
       </list>
     </option>
   </component>
@@ -262,36 +276,51 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
               <item name="selenium_spider" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="selenium_spider" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="runoob-git-test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
             <path>
               <item name="selenium_spider" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="selenium_spider" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="runoob-git-test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="selenium_spider" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="selenium_spider" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="runoob-git-test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="selenium_spider" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="runoob-git-test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="selenium_spider" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="runoob-git-test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="JingDongSelenium" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606472057768" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606472171906" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="E:/svnPro/svn" />
@@ -494,7 +523,16 @@
       <workItem from="1605150408381" duration="1919000" />
       <workItem from="1605493842390" duration="8804000" />
       <workItem from="1605698655400" duration="13702000" />
+      <workItem from="1606471877512" duration="267000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1606472068029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606472068029</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -530,7 +568,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="621554000" />
+    <option name="totallyTimeSpent" value="621821000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -542,9 +580,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="2062" height="1126" extended-state="7" />
+    <frame x="-1927" y="363" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.118263476" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.15602264" />
       <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -558,7 +596,7 @@
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32922733" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3285968" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.502495" side_tool="true" weight="0.40904522" />
@@ -578,6 +616,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.62/fastjson-1.2.62.jar!/com/alibaba/fastjson/parser/DefaultJSONParser.class">
@@ -792,16 +834,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JingDongSelenium/a123132.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/yinpinSpider/qingtingFM.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -925,8 +957,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Jsoup_app/runspider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3360">
-          <caret line="140" selection-start-line="140" selection-end-line="140" />
+        <state relative-caret-position="235">
+          <caret line="135" column="25" selection-start-line="135" selection-start-column="25" selection-end-line="135" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1006,6 +1038,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2376">
           <caret line="99" column="16" selection-start-line="99" selection-start-column="16" selection-end-line="99" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/JingDongSelenium/a123132.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
